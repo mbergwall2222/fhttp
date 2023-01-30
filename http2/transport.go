@@ -27,12 +27,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	tls "github.com/Danny-Dasilva/utls"
+	tls "github.com/mbergwall2222/utls"
 
-	http "github.com/Danny-Dasilva/fhttp"
-	"github.com/Danny-Dasilva/fhttp/httptrace"
+	http "github.com/mbergwall2222/fhttp"
+	"github.com/mbergwall2222/fhttp/httptrace"
 
-	"github.com/Danny-Dasilva/fhttp/http2/hpack"
+	"github.com/mbergwall2222/fhttp/http2/hpack"
 	"golang.org/x/net/http/httpguts"
 	"golang.org/x/net/idna"
 )

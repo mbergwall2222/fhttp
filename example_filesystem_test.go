@@ -9,7 +9,7 @@ import (
 	"log"
 	"strings"
 
-	http "github.com/Danny-Dasilva/fhttp"
+	http "github.com/mbergwall2222/fhttp"
 )
 
 // containsDotFile reports whether name contains a path element starting with a period.
